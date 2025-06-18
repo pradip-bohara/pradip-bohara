@@ -15,7 +15,7 @@
   * **Web Development (Flask/Django)** 🔍
   * **SQL Databases** 📄
   * **React** 🚀
-* 🧠 Confident with: **Python**, **MySQL**, **HTML/CSS**, **JavaScript**, **Pandas**, **Matplotlib**, **NumPy**
+* 🧠 Confident with: **Python**, **Django**, **HTML/CSS**, **React**. etc..
 
 ### 💼 Portfolio
 
