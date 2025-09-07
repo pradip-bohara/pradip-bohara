@@ -12,7 +12,7 @@
 * 🌱 Currently diving into:
 
   * **Advanced Python** 🔄
-  * **Web Development (Flask/Django)** 🔍
+  * **Web Development (Django)** 🔍
   * **SQL Databases** 📄
   * **React** 🚀
 * 🧠 Confident with: **Python**, **Django**, **HTML/CSS**, **React**. etc..
